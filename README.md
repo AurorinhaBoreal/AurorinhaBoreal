@@ -10,8 +10,6 @@
 - 💞️ I’m looking to collaborate and meet new people here in GitHub. I would love to make new connections, help and be helped by everyone here!!
 - 📫 Well, I think it isn't safe to share personal numbers here... Soo... If you wanna talk about some code, just reach me in auro.kruschewsky@gmail.com
 
-English isn't my native language so... Sorry if I commited any grammar mistakes.
-
 <!---
 AurorinhaBoreal/AurorinhaBoreal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
