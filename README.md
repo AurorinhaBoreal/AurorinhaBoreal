@@ -10,14 +10,13 @@
 - 💞️ I’m looking to collaborate and meet new people here in GitHub. I would love to make new connections, help and be helped by everyone here!!
 - 📫 Well, I think it isn't safe to share personal numbers here... Soo... If you wanna talk about some code, just reach me in auro.kruschewsky@gmail.com
 
-
-<p>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AurorinhaBoreal&hide=contribs&show_icons=true&theme=jolly&custom_title=My%20Statistics" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AurorinhaBoreal&layout=compact&theme=jolly&custom_title=Top%20Languages" />
+<p align="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=AurorinhaBoreal&hide=contribs&show_icons=true&theme=jolly&custom_title=My%20Statistics" />  
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=aurorinhaBore&layout=compact&theme=jolly&custom_title=Coding%20Time%20-%20Week"/>
+<p>
+  <img align="center" height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AurorinhaBoreal&layout=compact&theme=jolly&custom_title=Top%20Languages" />
+  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/wakatime?username=aurorinhaBore&layout=compact&theme=jolly&custom_title=Coding%20Time%20-%20Week"/>
 </p>
 
 <!---
