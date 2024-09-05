@@ -1,4 +1,6 @@
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a2d3816-66fc-444a-b22a-81f3a67838af/deo182h-4d8f64bf-0b0c-4f9b-8d13-a57c8d144ce1.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdhMmQzODE2LTY2ZmMtNDQ0YS1iMjJhLTgxZjNhNjc4MzhhZlwvZGVvMTgyaC00ZDhmNjRiZi0wYjBjLTRmOWItOGQxMy1hNTdjOGQxNDRjZTEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kplGovV3iIhR_A57G9pi3PocT73O4TNsf07CUHPoPAk"/>
+<p align="center">
+    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a2d3816-66fc-444a-b22a-81f3a67838af/deo182h-4d8f64bf-0b0c-4f9b-8d13-a57c8d144ce1.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdhMmQzODE2LTY2ZmMtNDQ0YS1iMjJhLTgxZjNhNjc4MzhhZlwvZGVvMTgyaC00ZDhmNjRiZi0wYjBjLTRmOWItOGQxMy1hNTdjOGQxNDRjZTEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kplGovV3iIhR_A57G9pi3PocT73O4TNsf07CUHPoPAk"/>
+</p>
 
 <p align="center">
     <a href="https://linkedin.com/in/aurora-kruschewsky">
@@ -55,6 +57,10 @@
   <img align-self="center" height=250 src="https://github-readme-stats.vercel.app/api/wakatime?username=aurorinhaBore&layout=compact&theme=jolly&custom_title=Coding%20Time%20-%20Week"/>
 </p>
 
+<picture>
+  <img alt="github-snake" src="https://github.com/AurorinhaBoreal/AurorinhaBoreal/blob/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 <h2 align="center">👋 Thanks for the Visit</h2>
 <p align="center">
   <img height="200" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true"/>
@@ -62,8 +68,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AurorinhaBoreal"/>
 </p>
-
-<picture>
-  <img alt="github-snake" src="https://github.com/AurorinhaBoreal/AurorinhaBoreal/blob/output/github-contribution-grid-snake-dark.svg" />
-</picture>
 
