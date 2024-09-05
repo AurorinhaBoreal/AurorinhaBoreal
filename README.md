@@ -63,7 +63,7 @@
 
 <h2 align="center">👋 Thanks for the Visit</h2>
 <p align="center">
-  <img height="200" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true"/>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AurorinhaBoreal"/>
