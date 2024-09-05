@@ -30,7 +30,7 @@ jobs:
           github_user_name: AurorinhaBoreal
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark?color_snake=#c85ef7&color_dots=#67409e,#5c16c1,#8240e1,#a068f0,#bd96f5
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark?color_snake=white&color_dots=#67409e,#5c16c1,#8240e1,#a068f0,#bd96f5
 
           
           
