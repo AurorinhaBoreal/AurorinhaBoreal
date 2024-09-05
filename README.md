@@ -57,18 +57,13 @@
 
 <h2 align="center">👋 Thanks for the Visit</h2>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true"/>
+  <img height="200" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true"/>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AurorinhaBoreal"/>
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/AurorinhaBoreal/AurorinhaBoreal/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-<!---
-https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969
---->
