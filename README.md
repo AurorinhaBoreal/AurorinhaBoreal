@@ -13,11 +13,11 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=700&color=FF64DA&background=291B3E&center=true&vCenter=true&width=700&height=100&lines=Hey!;My+name+is+Aurora+Kruschewsky;Welcome+to+my+GitHub+%3A3;If+you+want+to+see_more...;Take+a+look+at+my+portfolio!!;Up+here+%E2%80%8A%E2%80%88%E2%80%88%E2%80%88%E2%80%88%E2%86%91"/>
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=700&color=FF64DA&background=291B3E&center=true&vCenter=true&width=700&height=100&lines=Hey!;My+name+is+Aurora+Kruschewsky;Welcome+to+my+GitHub+%3A3;If+you+want+to+see+more...;Take+a+look+at+my+portfolio!!;Up+here+%E2%80%8A%E2%80%88%E2%80%88%E2%80%88%E2%80%88%E2%86%91"/>
 </p>
 
 <p align="center">
-  <img align="center" width=500 src="https://github-readme-stats.vercel.app/api?username=AurorinhaBoreal&hide=contribs&show_icons=true&theme=jolly&hide_border=true&border_radius=20&custom_title=My%20Statistics" />  
+  <img align="center" width=500 src="https://github-readme-stats.vercel.app/api?username=AurorinhaBoreal&hide=contribs,stars&show_icons=true&theme=jolly&hide_border=true&border_radius=20&custom_title=My%20Statistics" />  
 </p>
 
 <h2 align="center">🛠️ Languages and Tools:</h3>
@@ -42,7 +42,7 @@
 
 <h2 align="center">🏆 Achievements</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aurorinhaBoreal&theme=tokyonight&no-frame=true&margin-w=15"/>
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=aurorinhaBoreal&theme=tokyonight&no-frame=true&margin-w=15&title=-Stars&column=7"/>
 </p>
 
 <h2 align="center">📈 My Statistics</h2>
@@ -55,11 +55,12 @@
   <img align-self="center" height=250 src="https://github-readme-stats.vercel.app/api/wakatime?username=aurorinhaBore&layout=compact&theme=jolly&custom_title=Coding%20Time%20-%20Week"/>
 </p>
 
-<p align="right">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight?type=horizontal"/>
+<h2 align="center">👋 Thanks for the Visit</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true"/>
 </p>
 
-<p align="right">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=AurorinhaBoreal"/>
 </p>
 
