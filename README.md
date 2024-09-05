@@ -64,6 +64,11 @@
   <img src="https://komarev.com/ghpvc/?username=AurorinhaBoreal"/>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <!---
 https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969
 --->
