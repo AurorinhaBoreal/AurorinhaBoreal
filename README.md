@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=700&color=FF64DA&background=291B3E&center=true&vCenter=true&width=700&height=100&lines=Hey!;My+name+is+Aurora+Kruschewsky;Welcome+to+my+GitHub+%3A3;If+you+want+to+see+more...;Take+a+look+at+my+portfolio!!;Up+here+%E2%80%8A%E2%80%88%E2%80%88%E2%80%88%E2%80%88%E2%86%91"/>
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=700&color=FF64DA&background=291B3E&center=true&vCenter=true&width=700&height=100&lines=Hey!;My+name+is+Aurora+Kruschewsky;I'm+a+Fullstack+Developer+%3A3;If+you+want+to+see+more...;Take+a+look+at+my+portfolio!!;Up+here+%E2%80%8A%E2%80%88%E2%80%88%E2%80%88%E2%80%88%E2%86%91"/>
 </p>
 
 <p align="center">
